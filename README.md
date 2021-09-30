@@ -2,7 +2,7 @@
 
 _This is a challenge from Dev Challenges, specialized in frontend develop, is a 404 Not Found._
 
-## [Try the live demo](https://page-is-not-here.netlify.app) ⚡
+## [Try the live demo](https://404-is-here.netlify.app/) ⚡
 
 
 ## Getting Started 🚀
