@@ -1,0 +1,68 @@
+/* Font Import | Inconsolata */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
+
+
+.p1{
+    /* width: 600px; */
+    /* height: 190px; */
+    /* font-size: 64px; */
+    /* line-height:94.78px; */
+    font-weight: 700;
+    font-family: 'Space Mono', monospace;
+}
+.p2{
+    width: 400px;
+    height: 108px;
+    font-size: 24px;
+    line-height:35.54px;
+    font-weight: 400;
+    font-family: 'Space Mono', monospace;
+    margin-bottom: 50px;
+}
+
+/* Button to go in HomePage */
+#button{
+    background-color:#333333;
+    color: white;
+    width: 216px;
+    height: 68px;
+    font-weight: 700;
+    font-family: 'Space Mono', monospace;
+    border:0px solid transparent;
+}
+
+/* Footer */
+
+.footer1{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+/* Responsive Way */
+
+@media screen and (min-width: 426px) {
+    .p1 {
+      font-size: 64px;
+    }
+    .responsive{
+      width: 539.22px;
+    }
+  }
+  
+@media screen and (max-width: 425px) {
+    .p1 {
+      font-size: 48px;
+      margin-bottom: 65px;
+    } 
+    .p2 {
+      margin-bottom: 85px;
+    } 
+    .responsive{
+      width: 286.83px;
+    }
+}
+
+
